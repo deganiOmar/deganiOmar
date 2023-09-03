@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deganiOmar
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter & Dart
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with some project using flutter
 - 📫 How to reach me [C.V](https://cvdesignr.com/p/64c613863ac63) containes all my contact informations with my project
 
 <!---
